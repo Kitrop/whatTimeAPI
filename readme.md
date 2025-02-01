@@ -42,7 +42,7 @@ REDIS_PASSWORD=yourpassword
 ## Prerequisites
 1. Start Redis server
 
-2.
+2. Run the application:
 ```bash
 go run main.go
 ```
